@@ -14,7 +14,7 @@ const getAController = (req: Request, res: Response) => {
   res.status(200).json({
     success: true,
     message:
-      'Your car washing system server is running and you hit the / route!',
+      'Your Mongoose Starter system server is running and you hit the / route!',
   })
 }
 

@@ -1,8 +1,8 @@
-# Car Wash Booking System
+# Mongoose Starter
 
 ## Project Overview
 
-The Car Wash Booking System is a backend service designed to handle user bookings for car wash services. It includes functionalities for managing users, services, slots, and bookings. The project is built using `Express.js`, `Mongoose`, `Zod` for validation, `Yarn` as the package manager and here used `Husky` for checking pre-commit.
+The Mongoose Starter is a backend service designed to handle user bookings for Mongoose Starter services. It includes functionalities for managing users, services, slots, and bookings. The project is built using `Express.js`, `Mongoose`, `Zod` for validation, `Yarn` as the package manager and here used `Husky` for checking pre-commit.
 
 ## Features
 
