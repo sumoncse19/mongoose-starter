@@ -39,7 +39,7 @@ Create a `.env` file in the root of the project and configure the following envi
 
 ```env
 PORT=5000
-DATABASE_URL=mongodb://localhost:27017/car-wash
+DATABASE_URL=mongodb://localhost:27017/project_name
 BCRYPT_SALT_ROUNDS=12
 JWT_ACCESS_SECRET=your_jwt_secret
 JWT_REFRESH_SECRET=your_jwt_refresh
